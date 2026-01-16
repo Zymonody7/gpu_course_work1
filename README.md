@@ -1,5 +1,5 @@
 # 2025年秋季国科大《GPU架构与编程》作业一
-
+# https://github.com/Zymonody7/gpu_course_work1
 - **定位**：Fashion-MNIST 上的脉冲卷积网络 (SCNN) 训练与 CUDA 推理示例。
 - **主要文件**：
   - `train.py`：使用 SpikingJelly + PyTorch 训练 SCNN，并在达到精度阈值时将权重导出为 txt。
